@@ -15,6 +15,6 @@ This code contains all classes related to the system. However, there is no datas
 Please refer to 
 
 - [SumMe](https://gyglim.github.io/me/vsum/index.html) for the dataset.
-- [PoolNet](https://github.com/backseason/PoolNet) for the pre-trained model
+- [PoolNet](https://github.com/backseason/PoolNet) for the pre-trained ResNet-50 Model
 
 
